@@ -1,0 +1,13 @@
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\bin\Debug\netcoreapp3.1\Emerytura.exe
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\bin\Debug\netcoreapp3.1\Emerytura.deps.json
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\bin\Debug\netcoreapp3.1\Emerytura.runtimeconfig.json
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\bin\Debug\netcoreapp3.1\Emerytura.runtimeconfig.dev.json
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\bin\Debug\netcoreapp3.1\Emerytura.dll
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\bin\Debug\netcoreapp3.1\Emerytura.pdb
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\obj\Debug\netcoreapp3.1\Emerytura.csprojAssemblyReference.cache
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\obj\Debug\netcoreapp3.1\Emerytura.AssemblyInfoInputs.cache
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\obj\Debug\netcoreapp3.1\Emerytura.AssemblyInfo.cs
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\obj\Debug\netcoreapp3.1\Emerytura.csproj.CoreCompileInputs.cache
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\obj\Debug\netcoreapp3.1\Emerytura.dll
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\obj\Debug\netcoreapp3.1\Emerytura.pdb
+C:\Users\piete\OneDrive\Dokumenty\GitHub\emerytura-lab12n\EmeryturaInteraktywnie\Emerytura\obj\Debug\netcoreapp3.1\Emerytura.genruntimeconfig.cache
